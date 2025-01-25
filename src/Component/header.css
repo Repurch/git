@@ -1,0 +1,27 @@
+.envato{
+    position:fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #333333;
+    padding:10px 30px;
+    color: #fff;
+    z-index: 1000;
+}
+
+button{
+    padding: 8px 20px;
+    background-color: yellowgreen;
+    color: #FFF;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    font-size: 15px;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
